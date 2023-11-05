@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
     // Enable default imports in TypeScript.
     "esModuleInterop": true,
     "allowJs": true,
+    "strict": true,
     // The following settings enable IDE support in user-provided source files. 
     // Editing them might break features like import autocompletion and
     // definition lookup. Don't change them unless you know what you're doing.
