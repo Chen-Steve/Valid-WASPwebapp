@@ -1,0 +1,10 @@
+[build]
+  base = "/"
+  command = "wasp start"
+  publish = "build/"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
