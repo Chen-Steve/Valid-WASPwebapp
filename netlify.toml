@@ -1,6 +1,6 @@
 [build]
   base = "/"
-  command = "npm install -g wasp-cli && wasp build"
+  command = "wasp start"
   publish = ".wasp/out"
 
 [[redirects]]
