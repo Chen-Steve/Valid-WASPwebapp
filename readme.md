@@ -10,7 +10,7 @@ To run locally:
 If you are running on windows, download and set up WSL for linux subsystem on windwos and install node.js 18
 
 https://user-images.githubusercontent.com/1536647/231472285-126679e5-ecce-4cbb-8579-eb3cd9ba95bf.png
-
+![Alt text](image.png)
 Valid. is a mental wellness web app designed specifically for college students to manage their mental health through a friendly, clean, and supportive online environment. The app will consist of several key pages, each with a distinct purpose and set of functionalities to provide an engaging and helpful user experience. 
 
 Landing Page:
