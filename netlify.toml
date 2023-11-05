@@ -1,7 +1,7 @@
 [build]
   base = "/"
-  command = "wasp start"
-  publish = "build/"
+  command = "npm install -g wasp-cli && wasp build"
+  publish = ".wasp/out"
 
 [[redirects]]
   from = "/*"
