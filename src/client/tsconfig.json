@@ -5,6 +5,7 @@
 // compiler. Proper TS compiler configuration in Wasp is coming soon :)
 {
   "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
     // JSX support
     "jsx": "preserve",
     "strict": true,

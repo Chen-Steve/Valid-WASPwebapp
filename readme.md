@@ -7,14 +7,14 @@ To run locally:
 5. wasp db migrate-dev # init the db
 6. wasp start
 
-If you are running on windows, download and set up WSL and install node.js
+If you are running on windows, download and set up WSL for linux subsystem on windwos and install node.js 18
 
 https://user-images.githubusercontent.com/1536647/231472285-126679e5-ecce-4cbb-8579-eb3cd9ba95bf.png
 
 Valid. is a mental wellness web app designed specifically for college students to manage their mental health through a friendly, clean, and supportive online environment. The app will consist of several key pages, each with a distinct purpose and set of functionalities to provide an engaging and helpful user experience. 
 
 Landing Page:
- The landing page will be the welcoming interface of “Valid.”, designed to be warm and inviting. 
+The landing page will be the welcoming interface of “Valid.”, designed to be warm and inviting. 
 It should feature calming colors and minimalist design to promote a sense of peace. 
 Key elements will include a brief introduction to the app's purpose, testimonials from users, and clear navigation to sign-up or sign-in pages. 
 The page will also have a live chat support option for immediate assistance. 
