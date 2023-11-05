@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to ensure the padding and margin are reset */
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Ensure full height for min-h-screen to work correctly */
+html, body, #root {
+  height: 100%;
+}
+
+/* If you have a root div where your React app attaches */
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+/* If you're using a container for your content, you might want to ensure it's full width */
+.container {
+  width: 100%;
+  padding: 0;
+}
+
+/* Add your custom variables */
+:root {
+  --auth-form-brand: theme(colors.primary.500);
+  --auth-form-brand-accent: theme(colors.primary.600);
+  --auth-form-submit-button-text-color: theme(colors.white);
+}
